@@ -9,15 +9,25 @@ This repository demonstrates how enterprise platform engineering teams design sc
 # 📌 Features
 
 ✅ Custom VPC Architecture
+
 ✅ Shared VPC Model
+
 ✅ Modular Terraform Design
+
 ✅ Multi-Environment Setup (dev/stage/prod)
+
 ✅ Cloud NAT + Cloud Router
+
 ✅ Firewall Rules
+
 ✅ Internal DNS
+
 ✅ Remote Terraform State
+
 ✅ CI/CD using Cloud Build
+
 ✅ Validation & Security Checks
+
 ✅ Reusable Infrastructure Modules
 
 ---
@@ -259,10 +269,15 @@ Pipeline performs:
 # 🛡️ Security Best Practices
 
 ✅ Private subnet architecture
+
 ✅ Cloud NAT for outbound internet access
+
 ✅ Remote Terraform state
+
 ✅ Principle of least privilege
+
 ✅ Modular infrastructure isolation
+
 ✅ Environment separation
 
 ---
